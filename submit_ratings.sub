@@ -1,0 +1,20 @@
+universe = vanilla
+
+executable = analyze.sh
+arguments = analyze_ratings.R $(file)
+
+output = logs/ratings_$(file).out
+error = logs/ratings_$(file).err
+log = logs/ratings_$(file).log
+
+container_image = osdf:///ospool/uc-shared/public/OSG-Staff/xalim_stat/R_tidyverse_FITSio.sif
+
+should_transfer_files = YES
+when_to_transfer_output = ON_EXIT
+transfer_input_files = analyze_ratings.R, $(file)
+
+request_cpus = 1
+request_memory = 2GB
+request_disk = 2GB
+
+queue file matching files *_cleaned.tsv

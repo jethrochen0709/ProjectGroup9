@@ -1,0 +1,14 @@
+universe       = vanilla
+executable     = cleaning.sh
+arguments      = $(file)
+input          = /dev/null
+output         = logs/$(file).out
+error          = logs/$(file).err
+log            = logs/clean.log
+request_cpus   = 1
+request_memory = 2GB
+request_disk   = 2GB
+should_transfer_files = YES
+when_to_transfer_output = ON_EXIT
+transfer_input_files = $(file),cleaning.sh
+queue file from tsv_files.txt
