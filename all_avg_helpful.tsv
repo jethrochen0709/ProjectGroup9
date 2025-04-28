@@ -1,4 +1,4 @@
-product_category	helpful_votes
+==> all_avg_helpful.tsv <==
 Office Products	30.125
 Camera	25.5454545454545
 Tools	22.3333333333333
@@ -16,75 +16,39 @@ Video	3.8761515322429
 Music	3.40119039307408
 Wireless	2.5
 Electronics	1
-product_category	helpful_votes
 Apparel	0.983958211881538
-product_category	helpful_votes
 Automotive	1.03124522566659
-product_category	helpful_votes
 Baby	1.6092884318223
-product_category	helpful_votes
 Beauty	0.975618526411801
-product_category	helpful_votes
 Books	8.85520716904916
-product_category	helpful_votes
 Camera	1.13425823323434
-product_category	helpful_votes
 Digital_Ebook_Purchase	0.996671559292625
-product_category	helpful_votes
 Digital_Music_Purchase	0.194837924741462
-product_category	helpful_votes
 Digital_Software	2.45444927706595
-product_category	helpful_votes
 Digital_Video_Download	0.165468703204552
-product_category	helpful_votes
 Digital_Video_Games	1.28185918278668
-product_category	helpful_votes
 Electronics	0.775311041169388
-product_category	helpful_votes
 Furniture	1.71080007565727
-product_category	helpful_votes
 Gift Card	0.338640597169157
-product_category	helpful_votes
 Grocery	0.712394026089924
-product_category	helpful_votes
 Health & Personal Care	1.20391358652912
-product_category	helpful_votes
 Major Appliances	2.61157198361861
-product_category	helpful_votes
 Mobile_Apps	1.34692212267402
-product_category	helpful_votes
 Mobile_Electronics	0.86656324770594
-product_category	helpful_votes
 Musical Instruments	0.745686042334659
-product_category	helpful_votes
 Music	0.478998490516506
-product_category	helpful_votes
 Office Products	0.762616465799599
-product_category	helpful_votes
 Outdoors	0.991457902397916
-product_category	helpful_votes
 PC	0.700356398359223
-product_category	helpful_votes
 Personal_Care_Appliances	3.27205965427635
-product_category	helpful_votes
 Pet Products	0.867926778564957
-product_category	helpful_votes
 Shoes	0.544152097624269
-product_category	helpful_votes
 Software	1.18161653801792
-product_category	helpful_votes
 Sports	0.684062591769098
-product_category	helpful_votes
 Tools	0.621710705036492
-product_category	helpful_votes
 Toys	0.680184104856429
-product_category	helpful_votes
 Video DVD	0.607358624067926
-product_category	helpful_votes
 Video Games	0.532345806937805
-product_category	helpful_votes
 Video	0.725239802909706
-product_category	helpful_votes
 Watches	0.60836966325917
-product_category	helpful_votes
 Wireless	0.541399477217594

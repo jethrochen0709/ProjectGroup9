@@ -1,4 +1,4 @@
-product_category	star_rating
+==> all_avg_ratings.tsv <==
 Electronics	5
 PC	5
 Camera	4.54545454545455
@@ -16,75 +16,39 @@ Kitchen	3.66666666666667
 Home	3.6
 Tools	3.33333333333333
 Digital_Video_Download	2.8
-product_category	star_rating
 Apparel	4.03351344453242
-product_category	star_rating
 Automotive	4.24657682069293
-product_category	star_rating
 Baby	4.16186218661817
-product_category	star_rating
 Beauty	4.22455951096728
-product_category	star_rating
 Books	4.20063925328941
-product_category	star_rating
 Camera	4.16838792606711
-product_category	star_rating
 Digital_Ebook_Purchase	4.30728055481287
-product_category	star_rating
 Digital_Music_Purchase	4.71114973494395
-product_category	star_rating
 Digital_Software	3.5393303553936
-product_category	star_rating
 Digital_Video_Download	4.23315363881402
-product_category	star_rating
 Digital_Video_Games	3.8673714020288
-product_category	star_rating
 Electronics	4.09765319701738
-product_category	star_rating
 Furniture	4.14094319399786
-product_category	star_rating
 Gift Card	4.7372156580146
-product_category	star_rating
 Grocery	4.35609858526471
-product_category	star_rating
 Health & Personal Care	4.22764490909932
-product_category	star_rating
 Major Appliances	3.85967307221114
-product_category	star_rating
 Mobile_Apps	4.0089427980703
-product_category	star_rating
 Mobile_Electronics	3.78308311203429
-product_category	star_rating
 Musical Instruments	4.28977023269428
-product_category	star_rating
 Music	4.61363785522084
-product_category	star_rating
 Office Products	4.20917734601075
-product_category	star_rating
 Outdoors	4.26367501723742
-product_category	star_rating
 PC	4.10073297021048
-product_category	star_rating
 Personal_Care_Appliances	3.98580951304937
-product_category	star_rating
 Pet Products	4.17191731695884
-product_category	star_rating
 Shoes	4.24542736792511
-product_category	star_rating
 Software	3.79433945523911
-product_category	star_rating
 Sports	4.26811259806184
-product_category	star_rating
 Tools	4.30329427531376
-product_category	star_rating
 Toys	4.25234866277748
-product_category	star_rating
 Video DVD	4.51045918830167
-product_category	star_rating
 Video Games	4.19428679085321
-product_category	star_rating
 Video	4.35945654392256
-product_category	star_rating
 Watches	4.14869588093806
-product_category	star_rating
 Wireless	3.95958779171446
